@@ -121,7 +121,6 @@ I hope to achieve Milestone 1 before midterm evaluation II. My time commitment w
 #### Week II ( May 21 - May 27)
 
 - Continue working on above paper.
-- Start with Convolutional variants of Siamese Network mentioned in technical details.
 - Start implementing WaveNet [\[7\]](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 #### Week III ( May 28 - June 3)
