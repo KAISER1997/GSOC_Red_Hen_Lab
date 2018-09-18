@@ -208,7 +208,7 @@ Through my previous experiences, I have gained  proficiency in common Python Lib
 - Simple Twitter Sentiment Analysis using TextBlob Python library[\[21\]](https://github.com/ajinkyaT/twitter_sentiment_analysis)
 - Web crawler written for scraping amazon.in data[\[22\]](https://github.com/ajinkyaT/ori/blob/master/ama.py)
 
-I am also attaching my [CV](https://drive.google.com/open?id=1nAjj8Z86lR7olGSxz9nWdHGBJH4BgLXo) for a more detailed explanation of my previous experiences.
+I am also attaching my [CV](nada) for a more detailed explanation of my previous experiences.
 
 
 ## Why this project?
